@@ -23,7 +23,7 @@ hacky is an assembler for the hack computer in the nand2tetris course. it transl
    ./target/release/hacky <SRC> --out <OUT>
    ```
    - `<SRC>`: path to the input `.asm` file.
-   - `<OUT>`: path to the output `.hack` file.
+   - `<OUT>`: path to the output `.hack` file, if none specified, the output file is created in the directory hacky is run from
 
 ## example
 given the following input file `Test.asm`:
