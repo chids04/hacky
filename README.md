@@ -1,6 +1,6 @@
-# hack assembler
+# hacky
 
-this project is an assembler for the hack computer, as described in the nand2tetris course. it translates hack assembly language (.asm files) into binary machine code (.hack files) that can be executed on the hack hardware platform. the implementation conforms to the hack language specification outlined in [project 4 of nand2tetris](https://www.nand2tetris.org/project04).
+hacky is an assembler for the hack computer, as described in the nand2tetris course. it translates hack assembly language (.asm files) into binary machine code (.hack files) that can be executed on the hack hardware platform. the implementation conforms to the hack language specification outlined in [project 4 of nand2tetris](https://www.nand2tetris.org/project04).
 
 ## features
 - supports all hack assembly commands:
