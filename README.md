@@ -10,7 +10,7 @@ hacky is an assembler for the hack computer in the nand2tetris course. it transl
 - handles predefined symbols (`R0`-`R15`, `SCREEN`, `KBD`, etc.).
 - supports user-defined symbols and variables, starting at memory address 16.
 - removes comments and whitespace during parsing.
-- validates commands for correctness, including:
+- validates commands for correctness
 
 ## usage
 1. compile the project using cargo:
